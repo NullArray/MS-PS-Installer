@@ -159,7 +159,7 @@ function install()
 				clear
 				
 				notification "Installation completed."
-				printf "Enter 'pwsh' to start a PowerShell instance rom the terminal."
+				printf "Enter 'pwsh' to start a PowerShell instance from the terminal."
 				printf "Alternatively the installer can add a Desktop entry for you.\n"
 				
 				read -p 'Add Desktop shortcut? Y/n : ' choice
