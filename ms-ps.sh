@@ -349,10 +349,9 @@ function AppImage()
 {	notification "Downloading PowerShell AppImage"
 	sleep 1.5
 	
-	mkdir /home/$USER/PowerShell-Core && cd PowerShell-Core
+	mkdir /home/$USER/PowerShell-Core && cd /home/$USER/PowerShell-Core
 	wget -O powershell.AppImage https://github.com/PowerShell/PowerShell/releases/download/v6.0.1/powershell-6.0.1-x86_64.AppImage
 	cwd=$(pwd)
-	cd ..
 	
 	notification "Operation Completed. Making Appimage executable and creating symlink..."
 	sleep 1
