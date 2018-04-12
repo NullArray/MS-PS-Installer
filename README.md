@@ -13,7 +13,7 @@ git clone https://github.com/NullArray/MS-PS-Installer.git
 cd MS-PS-Installer
 chmod +x ms-ps.sh
 
-# And you can run it from your terminal with the folloring command
+# And you can run it from your terminal with the following command
 sudo ./ps-ms.sh
 ```
 
