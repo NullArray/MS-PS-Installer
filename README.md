@@ -1,5 +1,5 @@
 # MS-PS-Installer
-Automated PowerShell installer for Nix with multi Distro support.
+Automated PowerShell installer for `*Nix` with multi Distro support.
 
 As part of a different project i am currently working on i wrote this Bash script to automate the installation of PowerShell on Linux. It started off as an installer for Debian and Ubuntu primarily but i've expanded functionality to include support for Fedora, RHEL, CentOS, OpenSUSE, and of course Debian and Ubuntu.
 
