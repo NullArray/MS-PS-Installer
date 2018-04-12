@@ -425,7 +425,7 @@ function intro()
 	notification_b "# ------------ Twitter : @Real__Vector ------ #"
 	notification_b "###############################################"
 
-	notification_b "nWelcome to PowerShell installer for *Nix\n\n."
+	notification_b "Welcome to PowerShell installer for *Nix\n\n."
 
     init_opt
     
