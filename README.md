@@ -1,7 +1,7 @@
 # MS-PS-Installer
 Automated PowerShell installer for `*Nix` with multi Distro support.
 
-As part of a different project i am currently working on. I wrote this Bash script to automate the installation of PowerShell on Linux. It started off as an installer for Debian and Ubuntu primarily but i've expanded functionality to include support for Fedora, RHEL, CentOS, and OpenSUSE.
+As part of a different project i was working on a while ago, I wrote this Bash script to automate the installation of PowerShell on Linux. It started off as an installer for Debian and Ubuntu primarily but i've expanded functionality to include support for Fedora, RHEL, CentOS, and OpenSUSE.
 
 The aim of the script is to automate as much of the installation operations as possible. If you want to easily install and run MS PowerShell on your local Linux machine or perhaps in VM, now you can.
 
@@ -28,7 +28,7 @@ to your system proper.
 
 ### Note
 
-This is an early release and as such the tool might be subject to change in the future. Should you happen to encounter a bug please feel free to [Open up a Pull Request](https://github.com/NullArray/MS-PS-Installer/pulls) or [Submit a Ticket](https://github.com/NullArray/MS-PS-Installer/issues).
+Should you happen to encounter a bug, wish to contribute to the tool's development or find yourself with something you'd like assistance with, please feel free to [Open up a Pull Request](https://github.com/NullArray/MS-PS-Installer/pulls) or [Submit a Ticket](https://github.com/NullArray/MS-PS-Installer/issues).
 
 Thanks.
 
