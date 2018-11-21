@@ -148,6 +148,7 @@ function install()
 						else
 							warning "Your version of Ubuntu does not appear to be supported at this time." 
 							printf "Consider running PowerShell-Core via the AppImage method instead."
+							warning "\nExiting Install Script"
 						fi
 					fi
 				fi
