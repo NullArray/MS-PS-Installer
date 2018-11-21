@@ -337,7 +337,7 @@ installing PowerShell Core."
 				fi
 				printf "%b \n"
 				;;
-			"Quit")
+			    "Quit")
 				exit 1
 				;;
 			*) echo invalid option;;
